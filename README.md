@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Desarrollador Web | Programador de Software <br><br><br><br><br>¡Construyamos algo increíble juntos!</h1>
+<h2 align="center">🚀 Desarrollador Web | Programador de Software <br><br><br><br><br>¡Construyamos algo increíble juntos!</h2>
 
 ###
 
