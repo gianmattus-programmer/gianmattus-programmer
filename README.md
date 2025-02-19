@@ -11,12 +11,12 @@ Aqui es donde comparto mi viaje, conocimientos en la tecnología. Me encanta hac
 ¡Fuera del trabajo, me encontrarás escribiendo música. 
 <br/><br/>
 
-Outside of work, you’ll find me shopping, doing makeup, taking cute pics, and enjoying boba! ♡
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gianmattus-programmer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gianmattus-programmer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=gianmattus-programmer&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianmattus-programmer&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
 ## Tech Stack
 <p align="left">
