@@ -21,7 +21,7 @@ Aqui es donde comparto mi viaje, conocimientos en la tecnología. Me encanta hac
 ## Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,java,py,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,py,mysql" />
   </a>
 </p>
 
@@ -29,19 +29,6 @@ Aqui es donde comparto mi viaje, conocimientos en la tecnología. Me encanta hac
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,sklearn,tensorflow,notion,vscode,github" />
-  </a>
-  <a href="https://numpy.org" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/> 
-  </a>
-  <a href="https://matplotlib.org/stable/index.html" target="_blank"> 
-    <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="matplotlib" width="50" height="50"/> 
-  </a> 
-  <a href="https://docs.jupyter.org/en/latest/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50"/> 
-  </a>   
-  <a href="https://pandas.pydata.org/pandas-docs/stable/index.html" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="50" height="50"/> 
-  </a>
 </p>
 
 ## Operating System
