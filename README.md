@@ -25,6 +25,42 @@ Aqui es donde comparto mi viaje, conocimientos en la tecnología. Me encanta hac
   </a>
 </p>
 
+## Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,sklearn,tensorflow,notion,vscode,github" />
+  </a>
+  <a href="https://numpy.org" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/> 
+  </a>
+  <a href="https://matplotlib.org/stable/index.html" target="_blank"> 
+    <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="matplotlib" width="50" height="50"/> 
+  </a> 
+  <a href="https://docs.jupyter.org/en/latest/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50"/> 
+  </a>   
+  <a href="https://pandas.pydata.org/pandas-docs/stable/index.html" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="50" height="50"/> 
+  </a>
+</p>
+
+## Operating System
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+  </a>
+</p>
+
+## Badges
+<p align ="left">
+  <a href="https://www.credly.com/badges/e08dc444-84ef-4358-8d09-6f4ab822f13e/public_url">
+    <img src="https://github.com/user-attachments/assets/6b7f182c-ae91-4819-8dc5-7d4a6e95879f" alt="GitHub Foundations Badge" width="150px">
+  </a>
+  <a href="https://github.com/j-archives/j-archives/blob/main/assets/badges/it-specialist-databases.png">
+    <img src="https://github.com/j-archives/j-archives/blob/main/assets/badges/it-specialist-databases.png" alt="it-specialist-badge"
+  </a>
+</p>
+
 ###
 
 <br clear="both">
