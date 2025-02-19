@@ -39,11 +39,7 @@ Aqui es donde comparto mi viaje, conocimientos en la tecnología. Me encanta hac
 </p>
 
 ## Badges
-<p align ="left">
-  <a href="https://github.com/j-archives/j-archives/blob/main/assets/badges/it-specialist-databases.png">
-    <img src="https://github.com/j-archives/j-archives/blob/main/assets/badges/it-specialist-databases.png" alt="it-specialist-badge"
-  </a>
-</p>
+
 
 ###
 
