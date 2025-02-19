@@ -1,8 +1,8 @@
 <h2 align="center">🚀 Desarrollador Web | Programador de Software <br><br>¡Construyamos algo increíble juntos!</h2>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gianmattus-programmer.gianmattus-programmer"/>
-</div>
-
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/gianmattus-programmer/count.svg" />
+</p>
 # About me
 <br/>
 ¡Hola! Soy Giancarlos, una desarrollador apasionado que crea experiencias tecnológicas innovadoras y accesibles.
