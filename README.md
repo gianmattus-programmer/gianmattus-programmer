@@ -2,7 +2,16 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=judiemosinabre.judiemosinabre"/>
 </div>
-###
+
+# About me
+<br/>
+¡Hola! Soy Giancarlos, una desarrollador apasionado que crea experiencias tecnológicas innovadoras y accesibles.
+Aqui es donde comparto mi viaje, conocimientos en la tecnología. Me encanta hacer que la tecnología sea más inclusiva, inspirar a otros a aprender y crear proyectos creativos que unan a las personas.
+
+¡Fuera del trabajo, me encontrarás escribiendo música. 
+<br/><br/>
+
+Outside of work, you’ll find me shopping, doing makeup, taking cute pics, and enjoying boba! ♡
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gianmattus-programmer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
