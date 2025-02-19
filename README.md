@@ -28,7 +28,7 @@ Aqui es donde comparto mi viaje, conocimientos en la tecnología. Me encanta hac
 ## Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,sklearn,tensorflow,notion,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=figma,notion,vscode,github" />
 </p>
 
 ## Operating System
