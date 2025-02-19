@@ -1,8 +1,4 @@
 <h2 align="center">🚀 Desarrollador Web | Programador de Software <br><br>¡Construyamos algo increíble juntos!</h2>
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/gianmattus-programmer/count.svg" />
-</p>
 
 # About me
 <br/>
@@ -12,6 +8,10 @@ Aqui es donde comparto mi viaje, conocimientos en la tecnología. Me encanta hac
 ¡Fuera del trabajo, practico en proyectos aleatorios en mi tiempo libre, ¡muchos de los cuales involucran a servicios privados. 
 <br/><br/>
 
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/gianmattus-programmer/count.svg" />
+</p>
 <details>
   <summary>Github Stats ⚡</summary>
   
