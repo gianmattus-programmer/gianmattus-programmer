@@ -8,7 +8,7 @@
 ¡Hola! Soy Giancarlos, una desarrollador apasionado que crea experiencias tecnológicas innovadoras y accesibles.
 Aqui es donde comparto mi viaje, conocimientos en la tecnología. Me encanta hacer que la tecnología sea más inclusiva, inspirar a otros a aprender y crear proyectos creativos que unan a las personas.
 
-¡Fuera del trabajo, me encontrarás escribiendo música. 
+¡Fuera del trabajo, practico en proyectos aleatorios en mi tiempo libre, ¡muchos de los cuales involucran a servicios privados. 
 <br/><br/>
 
 <details>
