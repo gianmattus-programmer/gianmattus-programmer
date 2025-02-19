@@ -14,8 +14,8 @@ Aqui es donde comparto mi viaje, conocimientos en la tecnología. Me encanta hac
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=gianmattus-programmer&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianmattus-programmer&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gianmattus-programmer" alt="GitHub Streak" /></a>
+  <a href="http://www.github.com/j-archives"><img src="https://github-readme-stats.vercel.app/api?username=gianmattus-programmer&theme=graywhite&show_icons=true&hide_border=false&count_private=true/"></a>
 </details>
 
 ## Tech Stack
