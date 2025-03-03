@@ -1,6 +1,6 @@
 <h2 align="center">🚀 Desarrollador Web | Programador de Software <br><br>¡Construyamos algo increíble juntos!</h2>
 
-# About meee
+# About me
 <br/>
 ¡Hola! Soy Giancarlos, una desarrollador apasionado que crea experiencias tecnológicas innovadoras y accesibles.
 Aqui es donde comparto mi viaje, conocimientos en la tecnología. Me encanta hacer que la tecnología sea más inclusiva, inspirar a otros a aprender y crear proyectos creativos que unan a las personas.
