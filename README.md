@@ -94,7 +94,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gianmattus-programmer/gianmattus-programmer/output/github-contribution-grid-snake-dark.svg" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/gianmattus-programmer/gianmattus-programmer/output/github-contribution-grid-snake.svg" />
-      <img src="https://raw.githubusercontent.com/gianmattus-programmer/gianmattus-programmer/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+      <img src="https://raw.githubusercontent.com/gianmattus-programmer/gianmattus-programmer/main/output/github-contribution-grid-snake.svg" />
     </picture>
   <br />
   <br />
