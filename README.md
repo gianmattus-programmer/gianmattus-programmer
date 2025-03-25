@@ -89,7 +89,7 @@
 
 <!-- snake graph -->
 <div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <h2>🐍 Mis contribuciones 🐍</h2>
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gianmattus-programmer/gianmattus-programmer/main/output/github-contribution-grid-snake-dark.svg" />
