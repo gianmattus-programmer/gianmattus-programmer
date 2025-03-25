@@ -84,9 +84,6 @@
         </picture>
   </a>
 <br />
-<a href="https://www.logalert.app">
-  <img src='https://img.shields.io/badge/Log-Alert-ca3e54?labelColor=5512ca&style=for-the-badge' alt="learning" />
-</a>
 </p>
 <hr />
 
@@ -94,11 +91,11 @@
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gianmattus-programmer/gianmattus-programmer/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/gianmattus-programmer/gianmattus-programmer/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/gianmattus-programmer/gianmattus-programmer/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gianmattus-programmer/gianmattus-programmer/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/gianmattus-programmer/gianmattus-programmer/output/github-contribution-grid-snake.svg" />
+      <img src="https://raw.githubusercontent.com/gianmattus-programmer/gianmattus-programmer/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+    </picture>
   <br />
   <br />
   <br />
