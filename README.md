@@ -11,8 +11,6 @@
 ¡Fuera del trabajo, practico en proyectos aleatorios en mi tiempo libre, ¡muchos de los cuales involucran a servicios privados.
   <br />
   <br />
-  🎓 Actualmente estudiante de ingeniería.
-  <br />
   💻 Me encanta aprender nuevas tecnologías y frameworks.
   <br />
   🧑‍💼 Me especializo en desarrollo web y análisis de datos.
