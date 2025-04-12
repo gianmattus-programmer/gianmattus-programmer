@@ -192,3 +192,10 @@
   <a href="https://github.com/gianmattus-programmer?tab=repositories" title="Show Repositories">🔎 Ver Más 🔍</a>
 </h4>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gianmattus-programmer/gianmattus-programmer/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gianmattus-programmer/gianmattus-programmer/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gianmattus-programmer/gianmattus-programmer/output/pacman-contribution-graph.svg">
+</picture>
+
+###
