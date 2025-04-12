@@ -101,9 +101,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gianmattus-programmer/gianmattus-programmer/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gianmattus-programmer/gianmattus-programmer/output/pacman-contribution-graph.svg">
 </picture>
-
 </div>
 
+<br />
 <!-- stats -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
