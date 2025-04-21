@@ -119,6 +119,7 @@
 </div>-->
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 <h2 align="center">📊 Statistics 📊</h2>
 
 <div align="center">
@@ -210,6 +211,55 @@
     </picture>
   </a>
 </div>
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<h2 align="center">👨‍💻 Repositorios 👨‍💻</h2>
+<br />
+
+<!-- first row -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
+  <!-- repo 1 -->
+  <a href="https://github.com/gianmattus-programmer/AYSBLAS-Transportes" title="AYBLAS Transportes">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=AYSBLAS-Transportes&theme=react&border_color=61dafb&border_radius=10.0" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=AYSBLAS-Transportes&theme=graywhite&border_radius=10.0" />
+      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=AYSBLAS-Transportes&theme=graywhite&border_radius=10.0" alt="AYSBLAS Transportes repository" />
+    </picture>
+  </a>
+
+  <!-- repo 2 -->
+  <a href="https://github.com/gianmattus-programmer/SATIVA-Hotel-Resort" title="Sativa Hotel|Resort">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=SATIVA-Hotel-Resort&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=SATIVA-Hotel-Resort&theme=graywhite&border_radius=10" />
+      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=SATIVA-Hotel-Resort&theme=graywhite&border_radius=10" alt="Sativa Hotel|Resort repository" />
+    </picture>
+  </a>
+</div>
+<br /><br />
+
+<!-- second row -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
+  <!-- repo 3 -->
+  <a href="https://github.com/gianmattus-programmer/STUDIO" title="Estudio de Fotos">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=STUDIO&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=STUDIO&theme=graywhite&border_radius=10" />
+      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=STUDIO&theme=graywhite&border_radius=10" alt="Estudio de Fotos repository" />
+    </picture>
+  </a>
+
+  <!-- repo 4 -->
+  <a href="https://github.com/gianmattus-programmer/CARNES-PREMIUM" title="CARNES PREMIUM">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=CARNES-PREMIUM&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=CARNES-PREMIUM&theme=graywhite&border_radius=10" />
+      <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=CARNES-PREMIUM&theme=graywhite&border_radius=10" alt="CARNES PREMIUM repository" />
+    </picture>
+  </a>
+</div>
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!-- spaces -->
 
