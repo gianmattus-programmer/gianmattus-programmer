@@ -12,6 +12,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Hola!+👋;+Soy+Giancarlos!;&center=true&font=Righteous&size=35">
   </a>
 </h1>
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h2 align="center">🚀 Desarrollador Web | Programador de Software <br><br>¡Construyamos algo increíble juntos!<br /></h2>
 <!-- Sobre mi -->
 <p align="center">
@@ -25,7 +26,7 @@
   <br />
   <br />
 </p>
-
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/gianmattus-programmer/count.svg" />
@@ -45,7 +46,7 @@
 <!-- Telegram -->
   <a href="https://wa.me/51986673748" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
-
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <br />
 <!-- skills -->
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
