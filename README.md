@@ -170,51 +170,6 @@
 <!-- repositories -->
 <h2 align="center">👨‍💻 Repositorios 👨‍💻</h2>
 <br />
-<!-- first row -->
-<div width="100%" align="center">
-  <!-- repo 1 -->
-  <a align="right" href="https://github.com/gianmattus-programmer/AYSBLAS-Transportes" title="AYBLAS transportes">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=AYSBLAS-Transportes&theme=react&border_color=61dafb&border_radius=10.0" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=AYSBLAS-Transportes&theme=graywhite&border_radius=10.0" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=AYSBLAS-Transportes&theme=graywhite&border_radius=10.0" alt="gianmattus-programmer's repository stats - AYSBLAS Transporte" />
-    </picture>
-  </a>
-
-  <!-- repo 2 -->
-  <a align="left" href="https://github.com/gianmattus-programmer/SATIVA-Hotel-Resort" title="Sativa Hotel|Resort">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=SATIVA-Hotel-Resort&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=SATIVA-Hotel-Resort&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=SATIVA-Hotel-Resort&theme=graywhite&border_radius=10" alt="gianmattus-programmer's repository stats - Sativa Hotel|Resort" />
-    </picture>
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<!-- second row -->
-<div width="100%" align="center">
-  <!-- repo 3 -->
-  <a align="left" href="https://github.com/gianmattus-programmer/STUDIO" title="Estudio de Fotos">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=STUDIO&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=STUDIO&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=STUDIO&theme=graywhite&border_radius=10" alt="gianmattus-programmer's repository stats - Estudio de Fotos" />
-    </picture>
-  </a>
-
-  <!-- repo 4 -->
-  <a align="right" href="https://github.com/gianmattus-programmer/CARNES-PREMIUM" title="Brainwave SaaS Landing Page">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=CARNES-PREMIUM&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=CARNES-PREMIUM&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gianmattus-programmer&repo=CARNES-PREMIUM&theme=graywhite&border_radius=10" alt="gianmattus-programmer's repository stats - CARNES-PREMIUM" />
-    </picture>
-  </a>
-</div>
-<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-<h2 align="center">👨‍💻 Repositorios 👨‍💻</h2>
-<br />
 
 <!-- first row -->
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
@@ -236,7 +191,8 @@
     </picture>
   </a>
 </div>
-<br /><br />
+
+<br />
 
 <!-- second row -->
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
@@ -259,12 +215,7 @@
   </a>
 </div>
 
-
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!-- spaces -->
-
-<br /><br /><br /><br /><br /><br />
-
 <!-- show more repos -->
 <h4 align="center">
   <a href="https://github.com/gianmattus-programmer?tab=repositories" title="Show Repositories">🔎 VER MÁS 🔍</a>
