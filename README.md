@@ -141,73 +141,10 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gianmattus-programmer&theme=react&hide_border=true&background=0d1117" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=gianmattus-programmer&theme=default&hide_border=true&background=ffffff" />
-      <img width="60%" src="https://streak-stats.demolab.com/?user=gianmattus-programmer&theme=default&hide_border=true&background=ffffff" alt="Gianmattus Programmer Streak Stats" />
+      <img width="70%" src="https://streak-stats.demolab.com/?user=gianmattus-programmer&theme=default&hide_border=true&background=ffffff" alt="Gianmattus Programmer Streak Stats" />
     </picture>
   </a>
 </div>
-
-
-
-<style>
-  .stats-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 1rem;
-  }
-
-  .stats-item {
-    flex: 1 1 300px;
-    max-width: 400px;
-    width: 100%;
-  }
-
-  /* Ajuste de tamaños en pantallas grandes */
-  @media (min-width: 768px) {
-    .stats-item {
-      max-width: 500px;
-    }
-  }
-</style>
-
-<h2 align="center">📊 Statistics 📊</h2>
-
-<div class="stats-container">
-  <!-- GitHub Stats -->
-  <div class="stats-item">
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gianmattus-programmer&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=gianmattus-programmer&show_icons=true&count_private=true&hide_border=true&title_color=24292e&icon_color=0366d6&text_color=24292e&bg_color=ffffff" />
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=gianmattus-programmer&show_icons=true&count_private=true&hide_border=true&title_color=24292e&icon_color=0366d6&text_color=24292e&bg_color=ffffff" alt="Gianmattus Programmer GitHub stats" />
-      </picture>
-    </a>
-  </div>
-
-  <!-- Top Languages -->
-  <div class="stats-item">
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Languages">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gianmattus-programmer&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gianmattus-programmer&layout=compact&hide_border=true&title_color=24292e&text_color=24292e&bg_color=ffffff" />
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianmattus-programmer&layout=compact&hide_border=true&title_color=24292e&text_color=24292e&bg_color=ffffff" alt="Top languages used by gianmattus-programmer" />
-      </picture>
-    </a>
-  </div>
-</div>
-
-<!-- GitHub Streak -->
-<div align="center" style="margin-top: 2rem;">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Streak Stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gianmattus-programmer&theme=react&hide_border=true&background=0d1117" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=gianmattus-programmer&theme=default&hide_border=true&background=ffffff" />
-      <img width="80%" src="https://streak-stats.demolab.com/?user=gianmattus-programmer&theme=default&hide_border=true&background=ffffff" alt="Gianmattus Programmer Streak Stats" />
-    </picture>
-  </a>
-</div>
-
-
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <picture>
