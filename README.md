@@ -168,6 +168,26 @@
   </a>
 </p>
 
+<div align="center">
+  <!-- Streak Stats -->
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Streak Stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gianmattus-programmer&theme=react&hide_border=true" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=gianmattus-programmer&theme=default&hide_border=true" />
+      <img width="390" src="https://streak-stats.demolab.com/?user=gianmattus-programmer&theme=default&hide_border=true" alt="gianmattus-programmer's streak stats" />
+    </picture>
+  </a>
+
+  <!-- GitHub Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gianmattus-programmer&show_icons=true&theme=react&hide_border=true" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=gianmattus-programmer&show_icons=true&theme=default&hide_border=true" />
+      <img width="390" src="https://github-readme-stats.vercel.app/api?username=gianmattus-programmer&show_icons=true&theme=default&hide_border=true" alt="gianmattus-programmer's GitHub stats" />
+    </picture>
+  </a>
+</div>
+
 <br />
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!-- repositories -->
