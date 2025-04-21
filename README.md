@@ -13,11 +13,15 @@
   </a>
 </h1>
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<h2 align="center">🚀 Desarrollador Web | Programador de Software <br><br>¡Construyamos algo increíble juntos!<br /></h2>
+
+<h2 align="center">🚀 Desarrollador Web | Programador de Software <br><br>¡Construyamos algo increíble juntos!</h2>
+
 <!-- Sobre mi -->
-<p align="center">
-  Desarrollador apasionado que crea experiencias tecnológicas innovadoras y accesibles. Aqui es donde comparto mi viaje, conocimientos en la tecnología. Me encanta hacer que la tecnología sea más inclusiva, inspirar a otros a aprender y crear proyectos creativos que unan a las personas.
-¡Fuera del trabajo, practico en proyectos aleatorios en mi tiempo libre, ¡muchos de los cuales involucran a servicios privados.
+<p align="center" style="font-size: 16px; line-height: 1.8; max-width: 800px; margin: 0 auto; text-align: left;">
+  Desarrollador apasionado que crea experiencias tecnológicas innovadoras y accesibles. Aquí es donde comparto mi viaje y conocimientos en la tecnología. Me encanta hacer que la tecnología sea más inclusiva, inspirar a otros a aprender y crear proyectos creativos que unan a las personas.
+  <br />
+  <br />
+  ¡Fuera del trabajo, practico en proyectos aleatorios en mi tiempo libre, muchos de los cuales involucran a servicios privados!
   <br />
   <br />
   💻 Me encanta aprender nuevas tecnologías y frameworks.
@@ -26,6 +30,8 @@
   <br />
   <br />
 </p>
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <p align="center"> 
   Visitors count<br>
@@ -147,6 +153,7 @@
 </div>
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gianmattus-programmer&theme=react-dark&hide_border=true" />
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gianmattus-programmer&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
@@ -157,29 +164,7 @@
     style="border: none; box-shadow: none; outline: none;"
   />
 </picture>
-<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<div align="center">
-  <!-- Streak Stats -->
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Streak Stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gianmattus-programmer&theme=react&hide_border=true" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=gianmattus-programmer&theme=default&hide_border=true" />
-      <img width="390" src="https://streak-stats.demolab.com/?user=gianmattus-programmer&theme=default&hide_border=true" alt="gianmattus-programmer's streak stats" />
-    </picture>
-  </a>
-
-  <!-- GitHub Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gianmattus-programmer&show_icons=true&theme=react&hide_border=true" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=gianmattus-programmer&show_icons=true&theme=default&hide_border=true" />
-      <img width="390" src="https://github-readme-stats.vercel.app/api?username=gianmattus-programmer&show_icons=true&theme=default&hide_border=true" alt="gianmattus-programmer's GitHub stats" />
-    </picture>
-  </a>
-</div>
-
-<br />
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!-- repositories -->
 <h2 align="center">👨‍💻 Repositorios 👨‍💻</h2>
