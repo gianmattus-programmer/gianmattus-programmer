@@ -114,21 +114,22 @@
 
 <br />
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!-- stats -->
-<h2 align="center">⚡ Stats ⚡</h2>
-<br />
-<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 <div align="center">  
+  <!-- GitHub Stats -->
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gianmattus-programmer&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Gianmattus Programmer GitHub stats" /> 
   
+  <!-- Top Languages -->
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianmattus-programmer&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div>
 
-<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<br/>
 
-<p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
-</p>
+<div align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gianmattus-programmer&theme=tokyonight&hide_border=true&background=0D1117&ring=02D9F7&fire=02D9F7&currStreakLabel=02D9F7" alt="Gianmattus Programmer Streak Stats" />
+</div>
+
   
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <picture>
@@ -142,31 +143,6 @@
   />
 </picture>
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-<p align=center>
-<!-- first row -->
-  <div align=center>
-  <!-- streak stats -->
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gianmattus-programmer&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=gianmattus-programmer&theme=default&border=61dafb" />
-        <img align="left" width=390 src="https://streak-stats.demolab.com/?user=gianmattus-programmer&theme=default&border=61dafb" alt="gianmattus-programmer's streak stats" />
-      </picture>
-    </a>
-  <!-- github stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gianmattus-programmer&show_icons=true&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=gianmattus-programmer&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=gianmattus-programmer&show_icons=true&theme=default&border_color=61dafb" alt="gianmattus-programmer's github stats" />
-      </picture>
-    </a>
-  </div>
-  <!-- spaces -->
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-  </a>
-</p>
 
 <div align="center">
   <!-- Streak Stats -->
