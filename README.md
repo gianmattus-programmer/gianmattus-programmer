@@ -128,7 +128,11 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gianmattus-programmer&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gianmattus-programmer&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gianmattus-programmer&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gianmattus-programmer&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="gianmattus-programmer's contribution graph" />
+    </picture>
 
 <p align=center>
 <!-- first row -->
@@ -163,6 +167,7 @@
 </p>
 
 <br />
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!-- repositories -->
 <h2 align="center">👨‍💻 Repositorios 👨‍💻</h2>
 <br />
@@ -207,7 +212,7 @@
     </picture>
   </a>
 </div>
-
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!-- spaces -->
 
 <br /><br /><br /><br /><br /><br />
