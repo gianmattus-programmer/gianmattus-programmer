@@ -117,22 +117,31 @@
 <!-- stats -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
-
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gianmattus-programmer&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Gianmattus Programmer GitHub stats" /> 
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianmattus-programmer&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-</div> 
+</div>
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <p align="center">
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
 </p>
-
+  
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gianmattus-programmer&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gianmattus-programmer&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gianmattus-programmer&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="gianmattus-programmer's contribution graph" />
-    </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gianmattus-programmer&theme=react-dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gianmattus-programmer&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+  <img 
+    width="100%" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=gianmattus-programmer&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" 
+    alt="gianmattus-programmer's contribution graph"
+    style="border: none; box-shadow: none; outline: none;"
+  />
+</picture>
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <p align=center>
 <!-- first row -->
