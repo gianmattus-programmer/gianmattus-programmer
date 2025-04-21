@@ -118,6 +118,34 @@
 </picture>
 </div>-->
 
+<!-- skills -->
+<h2 align="center">🔥 Languages - Frameworks - Tools 🔥</h2>
+
+<!-- Lenguajes -->
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,java,py,php,mysql" alt="Languages: HTML, CSS, JavaScript, TypeScript, Java, Python, PHP, MySQL" />
+</p>
+
+<!-- Frameworks & Herramientas -->
+<h3 align="center">Frameworks & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,dotnet,figma,notion,vscode,firebase,postgres" alt="Frameworks & Tools: React, Tailwind, Bootstrap, .NET, Figma, Notion, VS Code, Firebase, PostgreSQL" />
+</p>
+
+<!-- Sistemas Operativos -->
+<h3 align="center">Operating Systems</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" alt="Operating Systems: Windows, Linux, Ubuntu" />
+</p>
+
+<!-- Deployment -->
+<h3 align="center">Deployment</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,github,planetscale" alt="Deployment: Vercel, Netlify, GitHub, PlanetScale" />
+</p>
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <h2 align="center">📊 Statistics 📊</h2>
